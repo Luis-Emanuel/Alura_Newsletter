@@ -8,7 +8,7 @@
 
 - `HTML`: Utilizamos o HTML de forma semântica e bem estruturada buscando o melhor desempenho para os buscadores 
 
-- ` Tailwind `: O Tailwind CSS é um framework de desenvolvimento de interface de usuário (UI) altamente utilitário. Ele oferecer uma maneira eficiente e rápida de criar interfaces personalizadas, sem precisar escrever CSS personalizado. Em vez de escrever regras CSS separadas para cada elemento e propriedade, você pode usar classes utilitárias para estilizar diretamente os elementos.
+- `Tailwind `: O Tailwind CSS é um framework de desenvolvimento de interface de usuário (UI) altamente utilitário. Ele oferecer uma maneira eficiente e rápida de criar interfaces personalizadas, sem precisar escrever CSS personalizado. Em vez de escrever regras CSS separadas para cada elemento e propriedade, você pode usar classes utilitárias para estilizar diretamente os elementos.
     
 ## 🔨 Funcionalidades do projeto
 
