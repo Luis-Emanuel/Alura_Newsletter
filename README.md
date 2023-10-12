@@ -16,7 +16,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento]( https://alura-newsletter-fawn.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://alura-newsletter-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
